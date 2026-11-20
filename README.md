@@ -1,16 +1,13 @@
-## Hi there 👋
+## yo, i'm kingepicnx 👋
 
-<!--
-**kingepicnx/kingepicnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Malaysia.
 
-Here are some ideas to get you started:
+- keeps notes about offline-first apps that will never be published
+- reach me at **@kingepicnx** on GitHub
+- rewrites it once, then leaves it alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=kingepicnx&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=kingepicnx&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Firebase-58a6ff?style=for-the-badge&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/React%20Native-58a6ff?style=for-the-badge&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" />
